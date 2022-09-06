@@ -19,6 +19,7 @@
         <dependency>
             <groupId>javax</groupId>
             <artifactId>javaee-web-api</artifactId>
+            packaging>pom</packaging>
             <version>7.0</version>
             <scope>provided</scope>
         </dependency>
